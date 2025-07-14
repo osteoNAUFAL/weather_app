@@ -55,7 +55,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 ),
               ),
               Spacer(),
-              Image.asset("assets\images\cloudy.png", height: 350),
+              Image.asset("assets/images/cloudy.png", height: 350),
               Spacer(),
               Center(
                 child: Text(
